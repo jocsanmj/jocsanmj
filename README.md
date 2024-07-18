@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jocsan Mejía</h1>
 <h3 align="center">I am a systems engineering student from Nicaragua</h3>
 
+## My GitHub Stats:
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="hello" width="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Your top languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en&theme=radical" alt="Your GitHub stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -58,15 +63,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-</p>
-
-## My GitHub Stats:
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact" alt="Your top languages" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en" alt="Your GitHub stats" />
 </p>
 
 ## Popular repositories
