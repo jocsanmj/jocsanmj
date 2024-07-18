@@ -1,3 +1,10 @@
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi 👋, I'm <strong>Jocsan Mejía</strong></h1>
+<h3 align="center" style="font-family: 'Georgia', serif; color: #555;">I am a <strong>systems engineering student</strong> from Nicaragua</h3>
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1600715048354-3c4e3b3db4e1?fit=crop&w=500&h=300" alt="Nice image" width="500" height="300" />
+</div>
+
 ## My GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Your top languages" />
@@ -66,10 +73,10 @@
 ## Popular repositories
 <p align="center">
   <a href="https://github.com/jocsanmj/SSIS" target="_blank">
-    <img src="https://img.shields.io/github/stars/your_username/landing-page-cakes?style=social" alt="landing-page-cakes" />
+    <img src="https://img.shields.io/github/stars/your_username/landing-page-cakes?style=social" alt="SSIS" />
   </a>
   <a href="https://github.com/jocsanmj/HELLO-SSIS" target="_blank">
-    <img src="https://img.shields.io/github/stars/your_username/app-pokemon?style=social" alt="app-pokemon" />
+    <img src="https://img.shields.io/github/stars/your_username/app-pokemon?style=social" alt="HELLO" />
   </a>
   <!-- Add more repositories as needed -->
 </p>
