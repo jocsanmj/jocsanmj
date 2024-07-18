@@ -2,7 +2,7 @@
 <h3 align="center" style="font-family: 'Georgia', serif; color: #555;">I am a <strong>systems engineering student</strong> from Nicaragua</h3>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1600715048354-3c4e3b3db4e1?fit=crop&w=500&h=300" alt="Nice image" width="500" height="300" />
+  <img src="https://github.com/jocsanmj/jocsanmj/blob/main/images.jpg" alt="Nice image" width="500" height="300" />
 </div>
 
 ## My GitHub Stats:
