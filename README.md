@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jocsan Mejía</h1>
 <h3 align="center">I am a systems engineering student from Nicaragua</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="hello" width="500"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/jocsan.valverde.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jocsan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jocsan_mv?igsh=MTRza3psOWxsb3B5dA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jocsan_mv" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jocsan.valverde.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jocsan_mv?igsh=MTRza3psOWxsb3B5dA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
@@ -58,11 +62,11 @@
 
 ## My GitHub Stats:
 <p align="left">
-  <img align="center" src="URL_TO_YOUR_TOP_LANGS_IMAGE" alt="Your top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact" alt="Your top languages" />
 </p>
 
 <p align="left">
-  <img align="center" src="URL_TO_YOUR_GITHUB_STATS_IMAGE" alt="Your GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en" alt="Your GitHub stats" />
 </p>
 
 ## Popular repositories
@@ -74,4 +78,9 @@
     <img align="center" src="https://img.shields.io/github/stars/your_username/app-pokemon?style=social" alt="app-pokemon" />
   </a>
   <!-- Add more repositories as needed -->
+</p>
+
+## Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
