@@ -2,22 +2,13 @@
 <h3 align="center">I am a systems engineering student from Nicaragua</h3>
 
 ## My GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Your top languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en&theme=radical" alt="Your GitHub stats" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/jocsan.valverde.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jocsan_mv?igsh=MTRza3psOWxsb3B5dA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Your top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en&theme=radical" alt="Your GitHub stats" />
+</div>
 
 ## Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
@@ -63,6 +54,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.facebook.com/jocsan.valverde.12" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="https://www.instagram.com/jocsan_mv?igsh=MTRza3psOWxsb3B5dA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
 </p>
 
 ## Popular repositories
