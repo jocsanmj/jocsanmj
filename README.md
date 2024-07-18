@@ -1,8 +1,13 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi 👋, I'm <strong>Jocsan Mejía</strong></h1>
-<h3 align="center" style="font-family: 'Georgia', serif; color: #555;">I am a <strong>systems engineering student</strong> from Nicaragua</h3>
+<h3 align="center" style="font-family: 'Georgia', serif; color: #555;">
+  I am a <strong>systems engineering student</strong> from Nicaragua
+  <img src="https://github.com/jocsanmj/jocsanmj/blob/main/img/images%20(1).jpg" alt="Nice image" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
+</h3>
 
+## My GitHub Stats:
 <div align="center">
-  <img src="https://github.com/jocsanmj/jocsanmj/blob/main/images.jpg" alt="Nice image" width="500" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Your top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en&theme=radical" alt="Your GitHub stats" />
 </div>
 
 ## My GitHub Stats:
