@@ -1,17 +1,19 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">
-  Hi 👋, I'm <strong>Jocsan Mejia</strong>
-</h1>
+<h1 align="center">Hi 👋, I'm David Membreño</h1>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
-  <div style="flex: 1; font-family: 'Georgia', serif; color: #ffffff; padding-right: 20px;">
+<div align="center">
+  <img src="https://github.com/jocsanmj/jocsanmj/blob/main/img/images%20(1).jpg" alt="Profile image" width="200" height="200" style="border-radius: 50%;">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 1; color: #ffffff;">
     <ul style="list-style-type: none; padding: 0;">
       <li>🎓 I’m a student of Systems Engineering.</li>
       <li>🌱 I’m currently learning <strong>WEB Development Full-Stack.</strong></li>
       <li>🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.</li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/jocsanmj/jocsanmj/blob/main/img/images%20(1).jpg" alt="Profile image" width="200" height="200" style="border-radius: 50%;" />
+  <div style="color: #ffffff;">
+    <h3>All we need is hate</h3>
   </div>
 </div>
 
