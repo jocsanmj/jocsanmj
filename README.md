@@ -1,6 +1,7 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi 👋, I'm <strong>Jocsan Mejía</strong></h1>
 <h3 align="center" style="font-family: 'Georgia', serif; color: #555;">
   I am a <strong>systems engineering student</strong> from Nicaragua
+  ...I like to play the piano and different musical instruments
   <img src="https://github.com/jocsanmj/jocsanmj/blob/main/img/images%20(1).jpg" alt="Nice image" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
 </h3>
 
