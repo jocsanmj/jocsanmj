@@ -10,12 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en&theme=radical" alt="Your GitHub stats" />
 </div>
 
-## My GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jocsanmj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Your top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jocsanmj&show_icons=true&locale=en&theme=radical" alt="Your GitHub stats" />
-</div>
-
 ## Languages and Tools:
 <p align="center">
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
