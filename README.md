@@ -8,8 +8,8 @@
   <div style="flex: 1; color: #ffffff;">
     <ul style="list-style-type: none; padding: 0;">
       <li>🎓 I’m a student of Systems Engineering.</li>
+      <li>🚀 I like to play the piano and different musical instruments. </li>
       <li>🌱 I’m currently learning <strong>WEB Development Full-Stack.</strong></li>
-      <li>🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.</li>
     </ul>
   </div>
   <div style="color: #ffffff;">
