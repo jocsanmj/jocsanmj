@@ -1,12 +1,14 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi 👋, I'm <strong>Jocsan Mejía</strong></h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">
+  Hi 👋, I'm <strong>Jocsan Mejía</strong>
+</h1>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; font-family: 'Georgia', serif; color: #555; text-align: left;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+  <div style="flex: 1; font-family: 'Georgia', serif; color: #555; padding-right: 20px;">
     <h3>I am a <strong>systems engineering student</strong> from Nicaragua</h3>
     <p>...I like to play the piano and different musical instruments</p>
   </div>
-  <div style="flex: 0;">
-    <img src="https://github.com/jocsanmj/jocsanmj/blob/main/img/images%20(1).jpg" alt="Nice image" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
+  <div>
+    <img src="https://github.com/jocsanmj/jocsanmj/blob/main/img/images%20(1).jpg" alt="Nice image" width="200" height="200" style="border-radius: 50%;" />
   </div>
 </div>
 
