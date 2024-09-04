@@ -82,17 +82,6 @@
   </a>
 </p>
 
-## Popular repositories
-<p align="center">
-  <a href="https://github.com/jocsanmj/SSIS" target="_blank">
-    <img src="https://img.shields.io/github/stars/your_username/landing-page-cakes?style=social" alt="SSIS" />
-  </a>
-  <a href="https://github.com/jocsanmj/HELLO-SSIS" target="_blank">
-    <img src="https://img.shields.io/github/stars/your_username/app-pokemon?style=social" alt="HELLO" />
-  </a>
-  <!-- Add more repositories as needed -->
-</p>
-
 ## Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
