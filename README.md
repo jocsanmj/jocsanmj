@@ -84,6 +84,7 @@
 </p>
 
 <!-- Snake -->
+<!-- Prueba chatel baby brrrr -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/jocsanmj/jocsanmj/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
